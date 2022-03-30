@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @reddi32
-- 👀 I’m interested in c
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 👋 Ciao mi chiamo Matteo Rossi e sono un Junior Wordpress Developer 
+- 👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket
+- 🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze in C++ e in Python
+- 📫 How to reach me
 
-| Email | redlabpc@protonmail.com |
-| Instagram | redlabpc |
-| Telegram | @redlabpc32 |
+       1. Email: rossimatteo32@gmail.com
+       2. Instagram: redlabpc
+       3. Telegram: @redlabpc32
 
  
 
