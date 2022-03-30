@@ -7,7 +7,23 @@
        2. Instagram: redlabpc
        3. Telegram: @redlabpc32
 
- 
+---
+
+### Progetti
+https://redlabpc.com/
+
+#### App Development
+[Time For Percentage](https://play.google.com/store/apps/details?id=com.redlabpc.timeforpercentage)
+
+#### Wordpress Project
+[ISMAA-ONLINE](https://ismaa-online.org/)
+
+[VE.RIS Immobiliare](https://verisimmobiliare.com/)
+
+---
+
+### Competenze
+![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)
 
 <!---
 Bla bla bla
