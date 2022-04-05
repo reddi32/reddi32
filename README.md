@@ -1,7 +1,10 @@
-- 👋 Ciao mi chiamo Matteo Rossi e sono un Junior Wordpress Developer 
-- 👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket
-- 🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze in C++ e in Python
-- 📫 How to reach me
+👋 Ciao mi chiamo Matteo Rossi, sono un Junior Wordpress Developer.
+
+👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket.
+
+🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze in C++ e in Python.
+
+📫 Ecco come puoi contattarmi 👇
       
       - Email: rossimatteo32@gmail.com
       - Instagram: redlabpc
@@ -9,7 +12,7 @@
 
 ---
 
-### Progetti
+## Progetti
 https://redlabpc.com/
 
 #### App Development
@@ -22,9 +25,18 @@ https://redlabpc.com/
 
 ---
 
-### Competenze
+## Competenze
 ![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)
 
+---
+
+## Interessi
+
+#### Sport
+Sono un ragazzo molto sportivo, nuoto da ben 18 anni 🏊 e sono un appassionato di basket 🏀.
+
+#### Cinema e Viaggi
+🎥 e 🛫
 <!---
 Bla bla bla
 --->
