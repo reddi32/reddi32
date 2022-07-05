@@ -2,7 +2,7 @@
 
 👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket.
 
-🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze in C++ e in Python.
+🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze e conoscenze.
 
 📫 Ecco come puoi contattarmi 👇
       
