@@ -26,7 +26,7 @@ https://redlabpc.com/
 ---
 
 ## Competenze
-![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)         
+![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)      ![Badge](networking-basics.png)         
 
 
 ---
