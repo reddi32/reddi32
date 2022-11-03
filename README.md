@@ -1,4 +1,4 @@
-👋 Ciao mi chiamo Matteo Rossi, sono un Junior Wordpress Developer.
+👋 Ciao mi chiamo Matteo Rossi, sono un Junior Wordpress Developer e un Full Stack Developer.
 
 👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket.
 
@@ -26,7 +26,7 @@ https://redlabpc.com/
 ---
 
 ## Competenze
-![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)      ![Badge](networking-basics.png)         
+![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)          
 
 
 ---
