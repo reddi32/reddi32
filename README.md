@@ -1,5 +1,7 @@
 👋 Ciao mi chiamo Matteo Rossi, sono un Junior Wordpress Developer e un Full Stack Developer.
 
+🖥️ Attualmente lavoro come sistemista informatico presso l'azienda Atlantica Digital SPA.
+
 👀 I miei principali interessi sono l'informatica e praticare sport, in particolare nuoto e basket.
 
 🌱 Attualmente sto studiando presso la Cisco Networking Academy per acquisire nuove competenze e conoscenze.
@@ -26,7 +28,7 @@ https://redlabpc.com/
 ---
 
 ## Competenze
-![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)      ![Badge](networking-basics.png)          
+![Badge](introduction-to-cybersecurity.png)      ![Badge](cybersecurity-essentials.png)      ![Badge](networking-basics.png)  
 
 
 ---
