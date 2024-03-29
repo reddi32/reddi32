@@ -15,7 +15,7 @@
 ---
 
 ## Progetti
-https://redlabpc.com/
+[https://redlabpc.com/](https://redlabpc.netlify.app/)
 
 #### App Development
 [Time For Percentage](https://play.google.com/store/apps/details?id=com.redlabpc.timeforpercentage)
